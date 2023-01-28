@@ -18,9 +18,9 @@ Get the output
 ### Step 5: 
 Take the output as screenshot
 ### Step 6: 
-End of the program
+End of the program.
 ## PROGRAM:
-```
+``` 
 num_words=0
 with open("text.txt",'r') as f1:
     for i in f1:
